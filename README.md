@@ -1,4 +1,8 @@
 # ✈️ App para Simulación de Aeropuertos mediante Hilos en Java
+
+## Autores
+*David Romero Oñoro y Guillermo González Martínez*
+
 ## 📖 Descripción del Proyecto
 Este repositorio contiene el código fuente de la Práctica de Laboratorio (PECL) de la asignatura Programación Avanzada. La aplicación es una simulación del funcionamiento y la interacción entre los aeropuertos de Madrid y Barcelona. 
 
